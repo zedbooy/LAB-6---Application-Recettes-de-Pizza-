@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Navy Theme -->
+    <color name="bg_dark">#0D0D1A</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_surface">#16213E</color>
+
+    <!-- Accent: Warm Orange -->
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_orange_light">#FF8C5E</color>
+    <color name="accent_gold">#FFC857</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#A0A0B0</color>
+    <color name="text_hint">#606070</color>
+
+    <!-- Divider -->
+    <color name="divider">#2A2A3E</color>
+</resources>
